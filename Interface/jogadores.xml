@@ -1,0 +1,79 @@
+<Jogadores>
+  <Jogador>
+    <login>admin</login>
+    <senha>admin</senha>
+    <dataCadastro>10/10/2019 21:28</dataCadastro>
+    <vitorias>9</vitorias>
+    <pontos>0.0</pontos>
+  </Jogador>
+  <Jogador>
+    <login>jonatastavares</login>
+    <senha>12345678</senha>
+    <dataCadastro>11/10/2019 12:03</dataCadastro>
+    <vitorias>0</vitorias>
+    <pontos>0.0</pontos>
+  </Jogador>
+  <Jogador>
+    <login>teste</login>
+    <senha>teste</senha>
+    <dataCadastro>04/11/2019 09:32</dataCadastro>
+    <vitorias>20</vitorias>
+    <pontos>17.0</pontos>
+  </Jogador>
+  <Jogador>
+    <login>asfsdgs</login>
+    <senha>123</senha>
+    <dataCadastro>13/11/2019 15:00</dataCadastro>
+    <vitorias>0</vitorias>
+    <pontos>0.0</pontos>
+  </Jogador>
+  <Jogador>
+    <login>Leticia</login>
+    <senha>123</senha>
+    <dataCadastro>13/11/2019 15:04</dataCadastro>
+    <vitorias>0</vitorias>
+    <pontos>0.0</pontos>
+  </Jogador>
+  <Jogador>
+    <login>Aniel</login>
+    <senha>159</senha>
+    <dataCadastro>13/11/2019 15:31</dataCadastro>
+    <vitorias>0</vitorias>
+    <pontos>0.0</pontos>
+  </Jogador>
+  <Jogador>
+    <login>jojo</login>
+    <senha>123</senha>
+    <dataCadastro>13/11/2019 15:50</dataCadastro>
+    <vitorias>7</vitorias>
+    <pontos>12.0</pontos>
+  </Jogador>
+  <Jogador>
+    <login>esparadrapo</login>
+    <senha>123</senha>
+    <dataCadastro>13/11/2019 15:56</dataCadastro>
+    <vitorias>0</vitorias>
+    <pontos>5.0</pontos>
+  </Jogador>
+  <Jogador>
+    <login>Nicinho</login>
+    <senha>Gameplays</senha>
+    <dataCadastro>13/11/2019 16:28</dataCadastro>
+    <vitorias>0</vitorias>
+    <pontos>0.0</pontos>
+  </Jogador>
+  <Jogador>
+    <login>leticia</login>
+    <senha>123</senha>
+    <dataCadastro>18/11/2019 07:58</dataCadastro>
+    <vitorias>0</vitorias>
+    <pontos>0.0</pontos>
+  </Jogador>
+  <Jogador>
+    <login>Niulso</login>
+    <senha>abobora123</senha>
+    <dataCadastro>22/11/2019 15:23</dataCadastro>
+    <vitorias>0</vitorias>
+    <pontos>0.0</pontos>
+  </Jogador>
+</Jogadores>
